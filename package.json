@@ -1,0 +1,34 @@
+{
+  "name": "antyu",
+  "displayName": "antyu",
+  "description": "a shiny dark theme",
+  "version": "0.0.1",
+  "publisher": "jevill",
+  "license": "MIT",
+  "author": "Jean Villarreal - javn93c@gmail.com",
+  "homepage": "https://github.com/jevillC4/antyu",
+  "icon": "assets/antyu.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jevillC4/antyu"
+  },
+  "bugs": {
+    "url": "https://github.com/jevillC4/antyu/issues",
+    "email": "javn93c@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "antyu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/antyu-color-theme.json"
+      }
+    ]
+  }
+}

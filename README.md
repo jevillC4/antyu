@@ -1,6 +1,9 @@
-![Antyu](assets/antyu.jpg)
+![Antyu](assets/antyu.png)
 
-a shiny dark theme
+A shiny dark theme
+
+## Homepage
+Github: [Antyu](https://github.com/jevillC4/antyu)
 
 ## Install
 

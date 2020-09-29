@@ -257,7 +257,7 @@
       "name": "Separators like ; or ,",
       "scope": ["punctuation.separator", "punctuation.terminator"],
       "settings": {
-        "foreground": "#ffd591"
+        "foreground": "#ff9c6e"
       }
     },
     {

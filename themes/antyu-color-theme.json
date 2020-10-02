@@ -103,7 +103,8 @@
     "statusBar.debuggingBackground": "#ff9c6e",
     "statusBar.debuggingForeground": "#1f1f1f",
     "statusBar.debuggingBorder": "#0d0d0d",
-    "statusBar.noFolderBorder": "#ff0000",
+    "statusBar.noFolderBorder": "#0d0d0d",
+    "statusBar.noFolderBackground": "#0d0d0d",
     "statusBarItem.activeBackground": "#fa541c",
 
     // Title Bar colors
@@ -143,6 +144,17 @@
 
     // Integrated Terminal colors
     "terminal.foreground": "#bfbfbf",
+    "terminal.ansiBrightWhite": "",
+    "terminal.ansiBrightYellow": "",
+    "terminal.ansiCyan": "#69c0ff",
+    "terminal.ansiGreen": "#69c0ff",
+    "terminal.ansiMagenta": "#95de64",
+    "terminal.ansiRed": "#ff9c6e",
+    "terminal.ansiWhite": "#ff9c6e",
+    "terminal.ansiYellow": "#ff9c6e",
+    "terminal.selectionBackground": "#ffffff50",
+    "terminalCursor.background": "#bfbfbf",
+    "terminalCursor.foreground": "#bfbfbf",
 
     // Debug colors
     "debugToolBar.background": "#0d0d0d", // Main color
@@ -270,6 +282,8 @@
         "punctuation.definition.string",
         "punctuation.definition.array",
         "punctuation.definition.entity",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
         "punctuation.separator.inheritance",
         "comment.line.keyword.punctuation.yard",
         "comment.line.punctuation.yard",
@@ -510,7 +524,7 @@
     {
       "scope": ["message.error"],
       "settings": {
-        "foreground": "#f5222d"
+        "foreground": "#52c41a"
       }
     },
     {

@@ -14,5 +14,18 @@ ext install antyu
 Then go to `Preferences > Color Theme > Antyu`.
 
 
-![Antyu](assets/view.png)
+<!-- ![Antyu](assets/view.png) -->
+### JavaScript
 
+![JS](assets/js.png)
+
+### JSX
+![JSX](assets/jsx.png)
+
+### Test
+
+![Test](assets/test.png)
+
+
+### Editor
+![Test](assets/editor.png)

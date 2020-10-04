@@ -27,5 +27,3 @@ Then go to `Preferences > Color Theme > Antyu`.
 ![Test](assets/test.png)
 
 
-### Editor
-![Test](assets/editor.png)

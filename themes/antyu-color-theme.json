@@ -212,14 +212,14 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#ffa940"
+        "foreground": "#ffd666"
       }
     },
     {
       "name": "Built-in constants",
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#ffa940"
+        "foreground": "#ffd666"
       }
     },
     {
@@ -289,6 +289,18 @@
         "comment.line.punctuation.yard",
         "punctuation.section.function.ruby",
         "punctuation.separator.object.ruby"
+      ],
+      "settings": {
+        "foreground": "#ff9c6e"
+      }
+    },
+    {
+      "name": "Punctuation 2",
+      "scope": [
+        "keyword.other.unit.percentage",
+        "keyword.other.unit.px",
+        "keyword.other.unit.rem",
+        "keyword.other.unit.em"
       ],
       "settings": {
         "foreground": "#ff9c6e"

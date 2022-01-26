@@ -148,7 +148,7 @@
     "terminal.ansiBrightYellow": "",
     "terminal.ansiCyan": "#69c0ff",
     "terminal.ansiGreen": "#69c0ff",
-    "terminal.ansiMagenta": "#95de64",
+    "terminal.ansiMagenta": "#a0ff58",
     "terminal.ansiRed": "#ff9c6e",
     "terminal.ansiWhite": "#ff9c6e",
     "terminal.ansiYellow": "#ff9c6e",
@@ -248,14 +248,14 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#95de64"
+        "foreground": "#a0ff58"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#95de64"
+        "foreground": "#a0ff58"
       }
     },
     {
@@ -349,7 +349,7 @@
       "name": "Lambda arrow",
       "scope": ["storage.type.function"],
       "settings": {
-        "foreground": "#95de64"
+        "foreground": "#a0ff58"
       }
     },
     {
@@ -523,7 +523,7 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#95de64"
+        "foreground": "#a0ff58"
       }
     },
     {

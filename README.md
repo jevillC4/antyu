@@ -15,15 +15,15 @@ Then go to `Preferences > Color Theme > Antyu`.
 
 
 <!-- ![Antyu](assets/view.png) -->
-### JavaScript
+### View
 
 ![JS](assets/js.png)
 
-### JSX
-![JSX](assets/jsx.png)
+<!-- ### JSX -->
+<!-- ![JSX](assets/jsx.png) -->
 
-### Test
+<!-- ### Test -->
 
-![Test](assets/test.png)
+<!-- ![Test](assets/test.png) -->
 
 

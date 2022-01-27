@@ -6,7 +6,7 @@
     "focusBorder": "#262626",
     "selection.background": "#273747fd",
     "errorForeground": "#ff3333",
-    "descriptionForeground": "#bfbfbf", // 2 fff
+    "descriptionForeground": "#d7e3fc", // 2 fff
     "icon.foreground": "#f5f5f5",
 
     // Window border
@@ -32,13 +32,13 @@
     // Activity Bar
     "activityBar.background": "#000000",
     "activityBar.activeBackground": "#141414",
-    "activityBar.foreground": "#bfbfbf", // 3 fff
+    "activityBar.foreground": "#d7e3fc", // 3 fff
 
     // Side Bar
     "sideBar.background": "#0d0d0d",
-    "sideBar.foreground": "#8c8c8c",
+    "sideBar.foreground": "#d7e3fc",
     "sideBar.border": "#0d0d0d",
-    "sideBarTitle.foreground": "#bfbfbf",
+    "sideBarTitle.foreground": "#d7e3fc",
     "sideBarSectionHeader.background": "#0d0d0d",
     "sideBarSectionHeader.border": "#0d0d0d",
 
@@ -63,7 +63,7 @@
     // Editor colors
     "editor.background": "#0d0d0d", // Main color
     "editorLineNumber.foreground": "#595959",
-    "editorCursor.foreground": "#d9d9d9",
+    "editorCursor.foreground": "#d7e3fc",
     "editor.selectionBackground": "#8c8c8c50",
     "editor.inactiveSelectionBackground": "#8c8c8c50",
 
@@ -92,15 +92,15 @@
     "panel.background": "#0d0d0d", // Main color
     "panel.border": "#0d0d0d",
     "panelTitle.activeBorder": "#8c8c8c",
-    "panelTitle.activeForeground": "#bfbfbf",
+    "panelTitle.activeForeground": "#d7e3fc",
     "panelTitle.inactiveForeground": "#8c8c8c",
     "panelInput.border": "#595959",
 
     // Status Bar colors
     "statusBar.background": "#0d0d0d", // Main color
-    "statusBar.foreground": "#bfbfbf",
+    "statusBar.foreground": "#d7e3fc",
     "statusBar.border": "#0d0d0d",
-    "statusBar.debuggingBackground": "#ff9c6e",
+    "statusBar.debuggingBackground": "#FA9672",
     "statusBar.debuggingForeground": "#1f1f1f",
     "statusBar.debuggingBorder": "#0d0d0d",
     "statusBar.noFolderBorder": "#0d0d0d",
@@ -109,18 +109,18 @@
 
     // Title Bar colors
     "titleBar.activeBackground": "#0d0d0d", // Main color
-    "titleBar.activeForeground": "#d9d9d9",
+    "titleBar.activeForeground": "#d7e3fc",
     "titleBar.inactiveBackground": "#0d0d0d",
     "titleBar.inactiveForeground": "#8c8c8c",
     "titleBar.border": "#0d0d0d", // Main color
 
     // Menu Bar colors
-    "menubar.selectionForeground": "#d9d9d9", // words colors main
+    "menubar.selectionForeground": "#d7e3fc", // words colors main
     "menubar.selectionBackground": "#262626",
     "menubar.selectionBorder": "#262626",
-    "menu.foreground": "#bfbfbf", // words colors main
+    "menu.foreground": "#d7e3fc", // words colors main
     "menu.background": "#0d0d0d",
-    "menu.selectionForeground": "#d9d9d9", // words colors main
+    "menu.selectionForeground": "#d7e3fc", // words colors main
     "menu.selectionBackground": "#262626",
     "menu.selectionBorder": "#262626",
     "menu.separatorBackground": "#595959",
@@ -128,10 +128,10 @@
 
     // Notification colors
     "notificationCenter.border": "#000000",
-    "notificationCenterHeader.foreground": "#d9d9d9", // words colors main
+    "notificationCenterHeader.foreground": "#d7e3fc", // words colors main
     "notificationCenterHeader.background": "#0d0d0d",
     "notificationToast.border": "#0d0d0d",
-    "notifications.foreground": "#d9d9d9", // words colors main
+    "notifications.foreground": "#d7e3fc", // words colors main
     "notifications.background": "#0d0d0d",
 
     // Extensions colors
@@ -140,21 +140,21 @@
     "pickerGroup.border": "#434343",
     "pickerGroup.foreground": "#595959",
     "quickInput.background": "#0d0d0d", // Main color
-    "quickInput.foreground": "#bfbfbf",
+    "quickInput.foreground": "#d7e3fc",
 
     // Integrated Terminal colors
-    "terminal.foreground": "#bfbfbf",
+    "terminal.foreground": "#d7e3fc",
     "terminal.ansiBrightWhite": "",
     "terminal.ansiBrightYellow": "",
     "terminal.ansiCyan": "#69c0ff",
     "terminal.ansiGreen": "#69c0ff",
-    "terminal.ansiMagenta": "#a0ff58",
-    "terminal.ansiRed": "#ff9c6e",
-    "terminal.ansiWhite": "#ff9c6e",
-    "terminal.ansiYellow": "#ff9c6e",
+    "terminal.ansiMagenta": "#95de64",
+    "terminal.ansiRed": "#FA9672",
+    "terminal.ansiWhite": "#FA9672",
+    "terminal.ansiYellow": "#FA9672",
     "terminal.selectionBackground": "#ffffff50",
-    "terminalCursor.background": "#bfbfbf",
-    "terminalCursor.foreground": "#bfbfbf",
+    "terminalCursor.background": "#d7e3fc",
+    "terminalCursor.foreground": "#d7e3fc",
 
     // Debug colors
     "debugToolBar.background": "#0d0d0d", // Main color
@@ -178,12 +178,12 @@
     {
       "scope": "source",
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -198,7 +198,7 @@
       "name": "String",
       "scope": ["string", "constant.other.symbol"],
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -226,7 +226,7 @@
       "name": "Variable",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -248,28 +248,28 @@
       "name": "Storage",
       "scope": ["storage"],
       "settings": {
-        "foreground": "#a0ff58"
+        "foreground": "#95de64"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#a0ff58"
+        "foreground": "#95de64"
       }
     },
     {
       "name": "Operators",
       "scope": ["keyword.operator"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
       "name": "Separators like ; or ,",
       "scope": ["punctuation.separator", "punctuation.terminator"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -291,7 +291,7 @@
         "punctuation.separator.object.ruby"
       ],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA7F55"
       }
     },
     {
@@ -303,28 +303,28 @@
         "keyword.other.unit.em"
       ],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA7F55"
       }
     },
     {
       "name": "Delimiters",
       "scope": "none",
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
       "name": "Separator",
       "scope": "meta.separator",
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
       "name": "Accessor",
       "scope": ["punctuation.accessor"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -349,7 +349,7 @@
       "name": "Lambda arrow",
       "scope": ["storage.type.function"],
       "settings": {
-        "foreground": "#a0ff58"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -363,7 +363,7 @@
       "name": "Function name",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -382,7 +382,7 @@
         "support.function.go"
       ],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -396,14 +396,14 @@
       "name": "Imports and packages",
       "scope": ["entity.name.import", "entity.name.package"],
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
       "name": "Entity name",
       "scope": ["entity.name"],
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {
@@ -428,7 +428,7 @@
       "name": "Tag attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -436,7 +436,7 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -475,7 +475,7 @@
       "name": "Ruby class methods",
       "scope": ["source.ruby variable.other.readwrite"],
       "settings": {
-        "foreground": "#ff9c6e"
+        "foreground": "#FA9672"
       }
     },
     {
@@ -523,14 +523,14 @@
       "name": "Search Results Match Nums",
       "scope": ["constant.numeric.line-number.match"],
       "settings": {
-        "foreground": "#a0ff58"
+        "foreground": "#95de64"
       }
     },
     {
       "name": "Search Results Lines",
       "scope": ["entity.name.filename.find-in-files"],
       "settings": {
-        "foreground": "#bfbfbf"
+        "foreground": "#d7e3fc"
       }
     },
     {

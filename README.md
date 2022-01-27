@@ -17,7 +17,7 @@ Then go to `Preferences > Color Theme > Antyu`.
 <!-- ![Antyu](assets/view.png) -->
 ### View
 
-![JS](assets/js.png)
+![JS](assets/jsi.png)
 
 <!-- ### JSX -->
 <!-- ![JSX](assets/jsx.png) -->
